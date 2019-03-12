@@ -19,7 +19,7 @@ Then add the dependency
 ```groovy
 implementation 'com.github.DitoHI:extraction-features:Tag'
 ```
-* **Important!** Please import your OpenCV module to `build.gradle` of *ExtractionFeature* and change it to your named OpenCV Library. For example, the case I'am using is implementing my OpenCV module with named `OpenCV` and put it in `build.gradle` of ExtractionFeature inside dependencies
+* **Important!** Please import your OpenCV module to `build.gradle` of *ExtractionFeature* and change it to your named OpenCV Library. For example, the case I'm using is implementing my OpenCV module with named `OpenCV` and put it in `build.gradle` of ExtractionFeature inside dependencies
 ```groovy
 dependencies {
     ...
